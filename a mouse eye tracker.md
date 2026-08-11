@@ -3,3 +3,9 @@
 - tethered through the roof, passive or active cable management
 - feed into some kinda computer for recording and monitor
 - Must be able to run multiple at the same time 
+
+
+## Companies  to talk to 
+- Precision Optics
+- Omnivision?
+- Framer (or soemthing?)
