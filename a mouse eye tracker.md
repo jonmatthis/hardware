@@ -1,3 +1,5 @@
 - Three cameras (two eye, one world) mounted on a mouse head
 - must be sub-4g
-- tethered 
+- tethered through the roof, passive or active cable management
+- feed into some kinda computer for recording and monitor
+- Must be able to run multiple at the same time ()
