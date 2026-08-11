@@ -8,6 +8,7 @@ A simple 3-camera kit for student mocap - targetting $100
 - lights (optional)
 - usb extension cables 
 - Charuco board
+- Alternatibely - raspberry pi or similar that can run the whole thing 
 
 ## Companies to talk to 
 - Arducam? 
