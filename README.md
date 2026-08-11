@@ -10,4 +10,4 @@ This repo is to hold info about hardware projects, which mostly will be split al
 We are esp focsued on: 
 
 - [[A student mocap kit ]]
-- [a mouse eye tracker]
+- [[a mouse eye tracker]]

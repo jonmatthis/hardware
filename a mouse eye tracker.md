@@ -1,0 +1,3 @@
+- Three cameras (two eye, one world) mounted on a mouse head
+- must be sub-4g
+- tethered 
